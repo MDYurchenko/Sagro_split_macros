@@ -14,7 +14,7 @@
 
 Файловая структура проекта:
 * все необходимые функции сосредоточены в пакете data_pipeline:
-* 1. input_values.py:
+  1. input_values.py:
      >Считывает основные зависимости из файла input_dependences.xlsx, который заполняет оператор.
   2. load_tabels.py:
      >загружает основные таблицы, указанные в input_dependences.xlsx.
